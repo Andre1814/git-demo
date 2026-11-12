@@ -1,4 +1,13 @@
 # git-demo
-我的第一个 Git 仓库
+
+我的第一个 Git 仓库。
+
 ## 用法
-暂无
+
+```bash
+python hello.py
+```
+
+## 作者
+
+Andre
