@@ -10,4 +10,4 @@ python hello.py
 
 ## 作者
 
-Andre
+Andreas
